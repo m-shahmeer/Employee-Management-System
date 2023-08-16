@@ -37,4 +37,4 @@ To run the Employee Management System, you need the following:
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/m-shahmeer/employee-management-system.git
